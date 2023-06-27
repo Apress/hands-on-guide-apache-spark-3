@@ -1,0 +1,7 @@
+[
+{"id":1,"first_name":"Luis","last_name":"Ortiz","email":"luis.ortiz@mapy.cz","country":"Spain","updated":"2015-05-16","registered":false},
+{"id":2,"first_name":"Alfonso","last_name":"Antolinez","email":"aantolinez@optc.es","country":"Spain","updated":"2015-03-11","registered":true},
+{"id":3,"first_name":"Juan","last_name":"Dominguez","email":"jdomin@xyz.org","country":"Spain","updated":"2015-02-15","registered":true},
+{"id":4,"first_name":"Santiago","last_name":"Sanchez","email":"ssanchez@google.com","country":"Spain","updated":"2014-10-31","registered":false}
+]
+

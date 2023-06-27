@@ -1,0 +1,104 @@
+[
+  {
+    "Book": {
+      "Id": 1,
+      "Title": {
+        "Book Title": "Pro Go",
+        "Book Subtitle": "The Complete Guide to Programming Reliable and Efficient Software Using Golang"
+      },
+      "Authors": [
+        {
+          "firstname": "Adam",
+          "lastname": " Freeman"
+        }
+      ],
+      "DOI": "https://doi.org/10.1007/978-1-4842-7355-5",
+      "Publisher": "Apress Berkeley, CA",
+      "eBook Packages": [
+        "Professional and Applied Computing",
+        "Professional and Applied Computing (R0)",
+        "Apress Access Books"
+      ],
+      "ISBN": [
+        {
+          "Softcover ISBN": "978-1-4842-7354-8",
+          "eBook ISBN": "978-1-4842-7355-5"
+        }
+      ],
+      "Topics": [
+        "Programming Language",
+        "Open Source",
+        "Programming Techniques"
+      ]
+    }
+  },
+  {
+    "Book": {
+      "Id": 2,
+      "Title": {
+        "Book Title": "Beginning Apache Spark 2",
+        "Book Subtitle": "With Resilient Distributed Datasets, Spark SQL, Structured Streaming and Spark Machine Learning library"
+      },
+      "Authors": [
+        {
+          "firstname": "Hien",
+          "lastname": "Luu"
+        }
+      ],
+      "DOI": "https://doi.org/10.1007/978-1-4842-3579-9",
+      "Publisher": "Apress Berkeley, CA",
+      "eBook Packages": [
+        "Professional and Applied Computing",
+        "Professional and Applied Computing (R0)",
+        "Apress Access Books"
+      ],
+      "ISBN": [
+        {
+          "eBook ISBN": "978-1-4842-3579-9"
+        }
+      ],
+      "Topics": [
+        "Big Data",
+        "Java",
+        "Data Mining and Knowledge Discovery",
+        "Open Source"
+      ]
+    }
+  },
+  {
+    "Book": {
+      "Id": 3,
+      "Title": {
+        "Book Title": "Big Data Processing Using Spark in Cloud"
+      },
+      "Editors": [
+        {
+          "firstname": "Valentina E.",
+          "lastname": "Mamta Mittal"
+        },
+        {
+          "firstname": "Balas",
+          "lastname": "Lalit Mohan Goyal"
+        }
+      ],
+      "DOI": "https://doi.org/10.1007/978-981-13-0550-4",
+      "Publisher": "Springer Singapore",
+      "eBook Packages": [
+        " Engineering",
+        "Engineering (R0)"
+      ],
+      "ISBN": [
+        {
+          "Hardcover ISBN": "978-981-13-0549-8",
+          "Softcover ISBN": "978-981-13-4448-0",
+          "eBook ISBN": "978-981-13-0550-4"
+        }
+      ],
+      "Topics": [
+        "Big Data",
+        "Data and Information Security",
+        "Data Analysis and Big Data"
+      ]
+    }
+  }
+]
